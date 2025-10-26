@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{64f829aa-357f-415b-910d-4e233e956ad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{292dfe45-0adc-400b-80f0-9c64e86f8ee9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Shader">
+      <UniqueIdentifier>{7d4dde47-5c1a-44dd-bbbc-56775db8892f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\System">
+      <UniqueIdentifier>{c1719ab7-2e0a-473a-bf9f-862a8a1e9053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\System\Window">
+      <UniqueIdentifier>{ee1ed952-a3aa-4cd5-acef-4a10926ebc71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Application">
+      <UniqueIdentifier>{bfea706e-7639-42dc-964d-b1cb846a1ed5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\System\Utility">
+      <UniqueIdentifier>{16e86d00-0578-4641-abf2-a0e19bffbce2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\System\Timer">
+      <UniqueIdentifier>{6def7ad4-9924-4c3c-91a1-fe9fe23b428f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Assets\Shader\RaymarchPixel.hlsl">
+      <Filter>Assets\Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="Assets\Shader\BasicVertexShader.hlsl">
+      <Filter>Assets\Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Shader\BasicType.hlsli">
+      <Filter>Assets\Shader</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\System\Window\Window.h">
+      <Filter>Source\System\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Application\Application.h">
+      <Filter>Source\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\System\d3dx12.h">
+      <Filter>Source\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\System\Timer\Timer.h">
+      <Filter>Source\System\Timer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\System\Window\Window.cpp">
+      <Filter>Source\System\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Application\Application.cpp">
+      <Filter>Source\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\System\Timer\Timer.cpp">
+      <Filter>Source\System\Timer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

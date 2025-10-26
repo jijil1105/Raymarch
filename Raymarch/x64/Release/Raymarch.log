@@ -1,0 +1,9 @@
+﻿  Window.cpp
+C:\Users\masak\source\repos\Raymarch\Source\System\Window\Window.cpp(20,49): warning C4838: 'unsigned int' から 'LONG' への変換には縮小変換が必要です
+C:\Users\masak\source\repos\Raymarch\Source\System\Window\Window.cpp(20,75): warning C4838: 'unsigned int' から 'LONG' への変換には縮小変換が必要です
+  コード生成しています。
+  1 of 466 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Raymarch.vcxproj -> C:\Users\masak\source\repos\Raymarch\x64\Release\Raymarch.exe

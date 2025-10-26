@@ -1,0 +1,5 @@
+﻿  compilation object save succeeded; see C:\Users\masak\source\repos\Raymarch\x64\Debug\RaymarchPixel.cso
+  Window.cpp
+C:\Users\masak\source\repos\Raymarch\Source\System\Window\Window.cpp(20,49): warning C4838: 'unsigned int' から 'LONG' への変換には縮小変換が必要です
+C:\Users\masak\source\repos\Raymarch\Source\System\Window\Window.cpp(20,75): warning C4838: 'unsigned int' から 'LONG' への変換には縮小変換が必要です
+  Raymarch.vcxproj -> C:\Users\masak\source\repos\Raymarch\x64\Debug\Raymarch.exe

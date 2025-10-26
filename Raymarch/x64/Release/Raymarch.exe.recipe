@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\masak\source\repos\Raymarch\x64\Release\Raymarch.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\masak\source\repos\Raymarch\x64\Release\RaymarchPixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\masak\source\repos\Raymarch\x64\Release\BasicVertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
